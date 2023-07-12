@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Descub" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/fire_engine_red</item>
+        <item name="colorPrimaryDark">@color/fire_engine_red</item>
+        <item name="colorAccent">@color/jet</item>
+    </style>
+
+    <style name="Theme.Descub" parent="Base.Theme.Descub" />
+</resources>
